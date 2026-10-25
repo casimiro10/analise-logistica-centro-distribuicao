@@ -1,0 +1,391 @@
+﻿id_entrega;id_pedido;data_saida;no_prazo;peso;valor;prazo;mes;dia_semana;motorista;veiculo;cliente;segmento;estado;cidade;qtd_itens;fim_semana;carga_pesada;prazo_apertado;valor_por_kg;prob_no_prazo;previsao;risco_atraso;status_real
+18;18;2025-03-09 16:00:00;0;955,79;3426,0;3;3;1;Carlos Souza;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;3;1;1;0;3,58;0,245;0;Alto;Atrasado
+37;37;2025-05-20 01:00:00;1;475,39;4403,0;1;5;3;Carlos Souza;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;2;0;0;1;9,26;0,85;1;Baixo;No Prazo
+45;45;2025-03-13 22:00:00;1;568,88;3468,0;1;3;5;Carlos Souza;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;1;6,1;0,89;1;Baixo;No Prazo
+54;55;2025-01-24 15:00:00;1;806,83;6825,0;1;1;6;Carlos Souza;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;3;0;1;1;8,46;0,855;1;Baixo;No Prazo
+71;72;2025-06-09 11:00:00;0;594,45;6182,0;1;6;2;Carlos Souza;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;2;0;1;1;10,4;0,715;1;Baixo;Atrasado
+87;88;2025-01-31 18:00:00;1;1608,72;7125,0;3;1;6;Carlos Souza;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;4;0;1;0;4,43;0,97;1;Baixo;No Prazo
+122;123;2025-01-25 13:00:00;1;1250,95;4989,0;1;1;7;Carlos Souza;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;4;1;1;1;3,99;0,675;1;Medio;No Prazo
+132;133;2025-06-08 18:00:00;1;729,71;4180,0;1;6;1;Carlos Souza;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;2;1;1;1;5,73;0,9;1;Baixo;No Prazo
+156;157;2025-05-11 01:00:00;1;419,57;5170,0;3;5;1;Carlos Souza;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;1;1;0;0;12,32;0,875;1;Baixo;No Prazo
+199;201;2025-02-01 04:00:00;1;205,69;456,0;3;2;7;Carlos Souza;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;1;1;0;0;2,22;0,79;1;Baixo;No Prazo
+201;203;2025-01-03 23:00:00;1;566,58;1860,0;3;1;6;Carlos Souza;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;2;0;1;0;3,28;0,94;1;Baixo;No Prazo
+206;208;2025-02-26 07:00:00;1;230,38;1650,0;2;2;4;Carlos Souza;Caminhão Baú;Atacado Premium;Atacado;SP;Ribeirão Preto;1;0;0;0;7,16;0,925;1;Baixo;No Prazo
+234;237;2025-02-12 18:00:00;0;740,79;4275,0;1;2;4;Carlos Souza;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;1;5,77;0,84;1;Baixo;Atrasado
+245;248;2025-02-19 16:00:00;1;756,26;6683,0;3;2;4;Carlos Souza;Caminhão Baú;Frigorífico Nobre;Atacado;MS;Campo Grande;4;0;1;0;8,84;0,895;1;Baixo;No Prazo
+272;275;2025-03-25 08:00:00;1;498,3;1296,0;1;3;3;Carlos Souza;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;0;0;1;2,6;0,97;1;Baixo;No Prazo
+282;285;2025-06-11 19:00:00;1;533,54;4130,0;3;6;4;Carlos Souza;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;0;1;0;7,74;0,635;1;Medio;No Prazo
+285;288;2025-03-01 21:00:00;1;643,97;3945,0;2;3;7;Carlos Souza;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;2;1;1;0;6,13;0,865;1;Baixo;No Prazo
+295;299;2025-05-22 07:00:00;1;347,73;708,0;1;5;5;Carlos Souza;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;0;0;1;2,04;0,72;1;Baixo;No Prazo
+305;309;2025-01-15 23:00:00;1;1114,79;8481,0;1;1;4;Carlos Souza;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;4;0;1;1;7,61;0,96;1;Baixo;No Prazo
+329;333;2025-03-26 04:00:00;1;847,36;4484,0;3;3;4;Carlos Souza;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;3;0;1;0;5,29;0,92;1;Baixo;No Prazo
+337;341;2025-06-03 11:00:00;1;491,73;2351,0;2;6;3;Carlos Souza;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;2;0;0;0;4,78;0,895;1;Baixo;No Prazo
+363;368;2025-06-04 07:00:00;1;1059,09;3843,0;1;6;4;Carlos Souza;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;2;0;1;1;3,63;0,895;1;Baixo;No Prazo
+364;369;2025-01-11 09:00:00;0;299,58;1144,0;1;1;7;Carlos Souza;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;1;1;0;1;3,82;0,27;0;Alto;Atrasado
+369;374;2025-03-08 12:00:00;1;722,76;6436,0;1;3;7;Carlos Souza;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;1;1;1;8,9;0,905;1;Baixo;No Prazo
+374;379;2025-05-05 17:00:00;1;596,55;2890,0;3;5;2;Carlos Souza;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;3;0;1;0;4,84;0,89;1;Baixo;No Prazo
+375;380;2025-01-03 14:00:00;1;228,83;1456,0;1;1;6;Carlos Souza;Caminhão Baú;Frigorífico Nobre;Atacado;MS;Campo Grande;1;0;0;1;6,36;0,96;1;Baixo;No Prazo
+17;17;2025-01-20 00:00:00;1;574,82;5524,0;3;1;2;Roberto Lima;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;2;0;1;0;9,61;0,845;1;Baixo;No Prazo
+26;26;2025-01-31 16:00:00;1;1213,81;7269,0;3;1;6;Roberto Lima;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;3;0;1;0;5,99;0,96;1;Baixo;No Prazo
+39;39;2025-05-29 15:00:00;1;1561,15;10868,0;1;5;5;Roberto Lima;Van Refrigerada;Frigorífico Nobre;Atacado;MS;Campo Grande;4;0;1;1;6,96;0,93;1;Baixo;No Prazo
+42;42;2025-02-18 00:00:00;1;1093,1;4829,0;1;2;3;Roberto Lima;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;3;0;1;1;4,42;0,795;1;Baixo;No Prazo
+60;61;2025-06-20 09:00:00;1;456,84;4405,0;3;6;6;Roberto Lima;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;2;0;0;0;9,64;0,645;1;Medio;No Prazo
+88;89;2025-03-23 06:00:00;1;1192,56;7193,0;3;3;1;Roberto Lima;Van Refrigerada;Churrascaria do Sul;Food Service;RS;Porto Alegre;4;1;1;0;6,03;0,775;1;Baixo;No Prazo
+114;115;2025-01-18 06:00:00;1;1152,2;5812,0;1;1;7;Roberto Lima;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;3;1;1;1;5,04;0,615;1;Medio;No Prazo
+117;118;2025-02-28 17:00:00;0;918,46;4258,0;1;2;6;Roberto Lima;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;3;0;1;1;4,64;0,245;0;Alto;Atrasado
+150;151;2025-04-06 19:00:00;1;562,54;3944,0;1;4;1;Roberto Lima;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;2;1;1;1;7,01;0,47;0;Medio;No Prazo
+204;206;2025-03-24 15:00:00;1;423,63;3276,0;1;3;2;Roberto Lima;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;0;1;7,73;0,83;1;Baixo;No Prazo
+216;218;2025-01-17 03:00:00;1;471,85;4762,0;2;1;6;Roberto Lima;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;2;0;0;0;10,09;0,875;1;Baixo;No Prazo
+219;221;2025-03-03 07:00:00;0;338,24;3496,0;2;3;2;Roberto Lima;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;2;0;0;0;10,34;0,325;0;Alto;Atrasado
+221;223;2025-03-18 13:00:00;0;797,5;2278,0;2;3;3;Roberto Lima;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;3;0;1;0;2,86;0,2;0;Alto;Atrasado
+249;252;2025-03-18 19:00:00;0;949,98;4891,0;1;3;3;Roberto Lima;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;4;0;1;1;5,15;0,2;0;Alto;Atrasado
+275;278;2025-04-22 20:00:00;1;1650,41;12712,0;2;4;3;Roberto Lima;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;4;0;1;0;7,7;0,83;1;Baixo;No Prazo
+277;280;2025-01-04 08:00:00;0;323,87;2380,0;2;1;7;Roberto Lima;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;2;1;0;0;7,35;0,275;0;Alto;Atrasado
+279;282;2025-03-17 23:00:00;1;1058,29;8187,0;2;3;2;Roberto Lima;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;0;1;0;7,74;0,895;1;Baixo;No Prazo
+281;284;2025-04-04 00:00:00;0;785,97;5065,0;2;4;6;Roberto Lima;Van Refrigerada;Mercadão do Povo;Varejo;CE;Fortaleza;3;0;1;0;6,44;0,155;0;Alto;Atrasado
+290;294;2025-02-16 22:00:00;1;389,03;1110,0;3;2;1;Roberto Lima;Van Refrigerada;Frigorífico Nobre;Atacado;MS;Campo Grande;1;1;0;0;2,85;0,76;1;Baixo;No Prazo
+313;317;2025-06-20 13:00:00;1;129,93;930,0;1;6;6;Roberto Lima;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;0;0;1;7,16;0,53;1;Medio;No Prazo
+314;318;2025-04-13 11:00:00;1;208,74;1204,0;3;4;1;Roberto Lima;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;1;1;0;0;5,77;0,805;1;Baixo;No Prazo
+333;337;2025-04-06 08:00:00;0;240,39;1694,0;2;4;1;Roberto Lima;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;1;0;0;7,05;0,26;0;Alto;Atrasado
+383;388;2025-05-21 10:00:00;1;388,99;4467,0;3;5;4;Roberto Lima;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;2;0;0;0;11,48;0,845;1;Baixo;No Prazo
+391;396;2025-02-08 00:00:00;1;1182,63;8868,0;2;2;7;Roberto Lima;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;1;1;0;7,5;0,94;1;Baixo;No Prazo
+5;5;2025-06-18 03:00:00;0;1330,82;6316,0;3;6;4;Paulo Mendes;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;4;0;1;0;4,75;0,25;0;Alto;Atrasado
+22;22;2025-06-14 02:00:00;1;1153,33;7817,0;3;6;7;Paulo Mendes;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;4;1;1;0;6,78;0,95;1;Baixo;No Prazo
+31;31;2025-04-13 22:00:00;1;466,02;3052,0;3;4;1;Paulo Mendes;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;1;1;0;0;6,55;0,73;1;Baixo;No Prazo
+40;40;2025-01-19 07:00:00;0;1021,57;11028,0;3;1;1;Paulo Mendes;Caminhão Frigorífico;Mercadão do Povo;Varejo;CE;Fortaleza;3;1;1;0;10,8;0,28;0;Alto;Atrasado
+96;97;2025-01-06 08:00:00;0;709,55;4950,0;1;1;2;Paulo Mendes;Caminhão Frigorífico;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;1;1;6,98;0,23;0;Alto;Atrasado
+101;102;2025-04-09 20:00:00;1;493,94;4955,0;1;4;4;Paulo Mendes;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;2;0;0;1;10,03;0,665;1;Medio;No Prazo
+107;108;2025-04-04 04:00:00;1;801,76;5204,0;3;4;6;Paulo Mendes;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;3;0;1;0;6,49;0,895;1;Baixo;No Prazo
+108;109;2025-01-23 15:00:00;1;520,72;3306,0;2;1;5;Paulo Mendes;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;1;0;1;0;6,35;0,7;1;Medio;No Prazo
+110;111;2025-05-13 13:00:00;0;1043,68;5450,0;1;5;3;Paulo Mendes;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;2;0;1;1;5,22;0,625;1;Medio;Atrasado
+124;125;2025-01-26 15:00:00;1;463,07;4365,0;2;1;1;Paulo Mendes;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;3;1;0;0;9,43;0,625;1;Medio;No Prazo
+137;138;2025-04-21 12:00:00;0;312,18;3610,0;3;4;2;Paulo Mendes;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;1;0;0;0;11,56;0,265;0;Alto;Atrasado
+175;176;2025-02-23 08:00:00;1;628,99;3136,0;2;2;1;Paulo Mendes;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;1;1;1;0;4,99;0,835;1;Baixo;No Prazo
+182;183;2025-02-14 01:00:00;1;547,88;4035,0;2;2;6;Paulo Mendes;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;2;0;1;0;7,36;0,885;1;Baixo;No Prazo
+215;217;2025-01-16 19:00:00;1;357,14;5190,0;2;1;5;Paulo Mendes;Caminhão Frigorífico;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;2;0;0;0;14,53;0,705;1;Baixo;No Prazo
+223;225;2025-05-28 04:00:00;1;1231,84;7293,0;2;5;4;Paulo Mendes;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;0;5,92;0,945;1;Baixo;No Prazo
+241;244;2025-03-24 01:00:00;1;254,44;2860,0;2;3;2;Paulo Mendes;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;1;0;0;0;11,24;0,82;1;Baixo;No Prazo
+267;270;2025-02-28 16:00:00;1;1118,02;6626,0;1;2;6;Paulo Mendes;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;1;5,93;0,87;1;Baixo;No Prazo
+278;281;2025-04-18 04:00:00;0;334,81;1086,0;1;4;6;Paulo Mendes;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;2;0;0;1;3,24;0,23;0;Alto;Atrasado
+294;298;2025-03-07 04:00:00;1;1545,49;7470,0;1;3;6;Paulo Mendes;Caminhão Frigorífico;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;1;4,83;0,735;1;Baixo;No Prazo
+298;302;2025-06-08 04:00:00;0;198,6;1800,0;1;6;1;Paulo Mendes;Caminhão Frigorífico;Mercadão do Povo;Varejo;CE;Fortaleza;1;1;0;1;9,06;0,25;0;Alto;Atrasado
+347;351;2025-05-22 10:00:00;1;721,36;5866,0;1;5;5;Paulo Mendes;Caminhão Frigorífico;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;2;0;1;1;8,13;0,865;1;Baixo;No Prazo
+352;356;2025-06-19 00:00:00;1;887,96;6303,0;1;6;5;Paulo Mendes;Caminhão Frigorífico;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;0;1;1;7,1;0,825;1;Baixo;No Prazo
+12;12;2025-03-14 17:00:00;1;984,75;2526,0;3;3;6;Marcos Silva;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;2;0;1;0;2,57;0,825;1;Baixo;No Prazo
+13;13;2025-06-19 06:00:00;0;1325,26;11623,0;1;6;5;Marcos Silva;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;4;0;1;1;8,77;0,265;0;Alto;Atrasado
+24;24;2025-01-08 10:00:00;1;334,32;1998,0;1;1;4;Marcos Silva;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;0;1;5,98;0,955;1;Baixo;No Prazo
+33;33;2025-06-11 10:00:00;1;908,01;4805,0;1;6;4;Marcos Silva;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;4;0;1;1;5,29;0,78;1;Baixo;No Prazo
+64;65;2025-03-18 17:00:00;1;907,95;5604,0;3;3;3;Marcos Silva;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;4;0;1;0;6,17;0,87;1;Baixo;No Prazo
+74;75;2025-02-03 01:00:00;1;579,44;4240,0;1;2;2;Marcos Silva;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;2;0;1;1;7,32;0,92;1;Baixo;No Prazo
+92;93;2025-04-30 22:00:00;1;532,79;6215,0;2;4;4;Marcos Silva;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;1;0;1;0;11,67;0,84;1;Baixo;No Prazo
+98;99;2025-04-05 19:00:00;0;804,06;7304,0;2;4;7;Marcos Silva;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;2;1;1;0;9,08;0,27;0;Alto;Atrasado
+131;132;2025-02-02 20:00:00;0;1267,67;10261,0;2;2;1;Marcos Silva;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;4;1;1;0;8,09;0,71;1;Baixo;Atrasado
+133;134;2025-01-27 14:00:00;1;617,7;3010,0;2;1;2;Marcos Silva;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;0;4,87;0,915;1;Baixo;No Prazo
+151;152;2025-05-04 09:00:00;0;801,45;4591,0;1;5;1;Marcos Silva;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;3;1;1;1;5,73;0,57;1;Medio;Atrasado
+155;156;2025-02-14 18:00:00;1;1691,02;9233,0;1;2;6;Marcos Silva;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;0;1;1;5,46;0,72;1;Baixo;No Prazo
+178;179;2025-05-24 13:00:00;1;647,84;2249,0;3;5;7;Marcos Silva;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;3;1;1;0;3,47;0,7;1;Medio;No Prazo
+191;193;2025-04-12 18:00:00;1;303,51;2190,0;3;4;7;Marcos Silva;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;1;1;0;0;7,22;0,855;1;Baixo;No Prazo
+203;205;2025-06-14 08:00:00;0;553,91;3572,0;2;6;7;Marcos Silva;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;1;1;0;6,45;0,3;0;Alto;Atrasado
+211;213;2025-05-22 21:00:00;0;201,29;1298,0;1;5;5;Marcos Silva;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;1;0;0;1;6,45;0,595;1;Medio;Atrasado
+218;220;2025-06-30 18:00:00;1;344,05;1044,0;1;6;2;Marcos Silva;Caminhão Baú;Churrascaria do Sul;Food Service;RS;Porto Alegre;1;0;0;1;3,03;0,87;1;Baixo;No Prazo
+220;222;2025-04-10 15:00:00;1;1476,85;9899,0;1;4;5;Marcos Silva;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;0;1;1;6,7;0,675;1;Medio;No Prazo
+225;227;2025-06-29 16:00:00;0;522,55;5085,0;1;6;1;Marcos Silva;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;1;1;1;9,73;0,225;0;Alto;Atrasado
+280;283;2025-03-24 23:00:00;0;722,92;2869,0;1;3;2;Marcos Silva;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;3;0;1;1;3,97;0,26;0;Alto;Atrasado
+303;307;2025-03-23 18:00:00;1;917,49;6733,0;1;3;1;Marcos Silva;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;3;1;1;1;7,34;0,835;1;Baixo;No Prazo
+306;310;2025-03-26 21:00:00;0;697,18;3388,0;3;3;4;Marcos Silva;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;0;4,86;0,315;0;Alto;Atrasado
+310;314;2025-03-31 18:00:00;1;565,38;4320,0;1;3;2;Marcos Silva;Caminhão Baú;Churrascaria do Sul;Food Service;RS;Porto Alegre;1;0;1;1;7,64;0,875;1;Baixo;No Prazo
+318;322;2025-04-23 04:00:00;1;493,22;4835,0;1;4;4;Marcos Silva;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;0;1;9,8;0,795;1;Baixo;No Prazo
+325;329;2025-06-12 06:00:00;0;349,0;1562,0;2;6;5;Marcos Silva;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;1;0;0;0;4,48;0,335;0;Alto;Atrasado
+331;335;2025-03-25 15:00:00;1;1155,01;5076,0;1;3;3;Marcos Silva;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;3;0;1;1;4,39;0,855;1;Baixo;No Prazo
+346;350;2025-03-21 18:00:00;1;187,92;1620,0;1;3;6;Marcos Silva;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;1;0;0;1;8,62;0,595;1;Medio;No Prazo
+354;358;2025-04-17 07:00:00;0;982,69;6442,0;1;4;5;Marcos Silva;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;4;0;1;1;6,56;0,3;0;Alto;Atrasado
+368;373;2025-06-12 02:00:00;1;498,89;1785,0;1;6;5;Marcos Silva;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;2;0;0;1;3,58;0,885;1;Baixo;No Prazo
+2;2;2025-04-29 09:00:00;0;1435,56;11754,0;1;4;3;André Costa;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;0;1;1;8,19;0,845;1;Baixo;Atrasado
+4;4;2025-04-09 04:00:00;0;659,09;5710,0;1;4;4;André Costa;Van Refrigerada;Frigorífico Nobre;Atacado;MS;Campo Grande;2;0;1;1;8,66;0,22;0;Alto;Atrasado
+21;21;2025-05-11 01:00:00;1;388,64;2548,0;1;5;1;André Costa;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;1;1;0;1;6,56;0,945;1;Baixo;No Prazo
+28;28;2025-03-26 17:00:00;0;761,61;2537,0;3;3;4;André Costa;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;0;3,33;0,215;0;Alto;Atrasado
+38;38;2025-05-26 15:00:00;1;1248,24;7635,0;1;5;2;André Costa;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;3;0;1;1;6,12;0,945;1;Baixo;No Prazo
+62;63;2025-05-20 17:00:00;1;454,79;2700,0;1;5;3;André Costa;Van Refrigerada;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;1;0;0;1;5,94;0,825;1;Baixo;No Prazo
+65;66;2025-06-14 20:00:00;1;849,6;5053,0;3;6;7;André Costa;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;3;1;1;0;5,95;0,875;1;Baixo;No Prazo
+78;79;2025-06-15 06:00:00;0;751,28;5606,0;2;6;1;André Costa;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;4;1;1;0;7,46;0,62;1;Medio;Atrasado
+81;82;2025-02-04 13:00:00;1;1233,63;6316,0;2;2;3;André Costa;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;3;0;1;0;5,12;0,915;1;Baixo;No Prazo
+91;92;2025-02-09 21:00:00;0;878,15;9129,0;1;2;1;André Costa;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;1;1;1;10,4;0,3;0;Alto;Atrasado
+106;107;2025-01-19 05:00:00;1;1209,1;7297,0;1;1;1;André Costa;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;4;1;1;1;6,04;0,93;1;Baixo;No Prazo
+149;150;2025-03-19 10:00:00;1;638,16;3066,0;1;3;4;André Costa;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;1;4,8;0,87;1;Baixo;No Prazo
+159;160;2025-01-23 06:00:00;0;1059,62;6704,0;1;1;5;André Costa;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;1;6,33;0,365;0;Alto;Atrasado
+193;195;2025-04-20 14:00:00;1;378,16;1170,0;1;4;1;André Costa;Van Refrigerada;Churrascaria do Sul;Food Service;RS;Porto Alegre;1;1;0;1;3,09;0,91;1;Baixo;No Prazo
+217;219;2025-04-23 10:00:00;1;1619,15;8544,0;2;4;4;André Costa;Van Refrigerada;Mercadão do Povo;Varejo;CE;Fortaleza;4;0;1;0;5,28;0,93;1;Baixo;No Prazo
+222;224;2025-04-22 11:00:00;1;1418,02;9397,0;2;4;3;André Costa;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;0;6,63;0,945;1;Baixo;No Prazo
+232;235;2025-01-18 12:00:00;1;982,26;6019,0;2;1;7;André Costa;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;1;1;0;6,13;0,845;1;Baixo;No Prazo
+262;265;2025-01-28 04:00:00;1;1254,18;7171,0;3;1;3;André Costa;Van Refrigerada;Mercadão do Povo;Varejo;CE;Fortaleza;3;0;1;0;5,72;0,87;1;Baixo;No Prazo
+276;279;2025-03-15 15:00:00;1;1402,52;12479,0;1;3;7;André Costa;Van Refrigerada;Frigorífico Nobre;Atacado;MS;Campo Grande;4;1;1;1;8,9;0,87;1;Baixo;No Prazo
+286;289;2025-03-10 10:00:00;1;641,82;3868,0;3;3;2;André Costa;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;2;0;1;0;6,03;0,785;1;Baixo;No Prazo
+300;304;2025-06-06 19:00:00;1;1149,36;7852,0;2;6;6;André Costa;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;4;0;1;0;6,83;0,935;1;Baixo;No Prazo
+351;355;2025-06-26 03:00:00;1;1098,22;6140,0;1;6;5;André Costa;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;3;0;1;1;5,59;0,895;1;Baixo;No Prazo
+361;366;2025-02-14 08:00:00;1;237,98;624,0;3;2;6;André Costa;Van Refrigerada;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;2;0;0;0;2,62;0,885;1;Baixo;No Prazo
+367;372;2025-06-05 23:00:00;1;1225,63;7187,0;1;6;5;André Costa;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;3;0;1;1;5,86;0,685;1;Medio;No Prazo
+376;381;2025-01-07 08:00:00;1;770,79;6378,0;1;1;3;André Costa;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;3;0;1;1;8,27;0,895;1;Baixo;No Prazo
+1;1;2025-05-21 19:00:00;1;1094,5;8407,0;2;5;4;Fernando Rocha;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;4;0;1;0;7,68;0,93;1;Baixo;No Prazo
+8;8;2025-02-10 06:00:00;1;381,66;1710,0;2;2;2;Fernando Rocha;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;2;0;0;0;4,48;0,96;1;Baixo;No Prazo
+73;74;2025-01-10 06:00:00;1;353,39;2530,0;2;1;6;Fernando Rocha;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;2;0;0;0;7,16;0,97;1;Baixo;No Prazo
+93;94;2025-01-17 13:00:00;1;817,72;5020,0;2;1;6;Fernando Rocha;Caminhão Frigorífico;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;0;1;0;6,14;0,87;1;Baixo;No Prazo
+104;105;2025-06-21 15:00:00;1;789,94;5285,0;1;6;7;Fernando Rocha;Caminhão Frigorífico;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;1;1;1;6,69;0,695;1;Medio;No Prazo
+139;140;2025-06-27 00:00:00;1;798,57;3874,0;3;6;6;Fernando Rocha;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;3;0;1;0;4,85;0,88;1;Baixo;No Prazo
+157;158;2025-05-19 12:00:00;1;1443,91;9272,0;3;5;2;Fernando Rocha;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;4;0;1;0;6,42;0,975;1;Baixo;No Prazo
+165;166;2025-05-28 09:00:00;1;831,68;5971,0;2;5;4;Fernando Rocha;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;0;7,18;0,8;1;Baixo;No Prazo
+167;168;2025-05-04 17:00:00;1;1672,06;11018,0;1;5;1;Fernando Rocha;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;4;1;1;1;6,59;0,94;1;Baixo;No Prazo
+171;172;2025-01-29 09:00:00;1;1223,2;8720,0;1;1;4;Fernando Rocha;Caminhão Frigorífico;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;0;1;1;7,13;0,925;1;Baixo;No Prazo
+172;173;2025-01-22 22:00:00;1;395,68;3177,0;3;1;4;Fernando Rocha;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;2;0;0;0;8,03;0,95;1;Baixo;No Prazo
+240;243;2025-05-17 16:00:00;0;161,38;324,0;3;5;7;Fernando Rocha;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;1;1;0;0;2,01;0,295;0;Alto;Atrasado
+253;256;2025-06-07 22:00:00;0;576,49;3804,0;1;6;7;Fernando Rocha;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;3;1;1;1;6,6;0,27;0;Alto;Atrasado
+258;261;2025-05-12 05:00:00;1;1575,26;12704,0;3;5;2;Fernando Rocha;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;4;0;1;0;8,06;0,935;1;Baixo;No Prazo
+271;274;2025-01-12 19:00:00;1;750,92;5164,0;3;1;1;Fernando Rocha;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;3;1;1;0;6,88;0,875;1;Baixo;No Prazo
+315;319;2025-04-25 18:00:00;0;347,33;855,0;3;4;6;Fernando Rocha;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;2;0;0;0;2,46;0,77;1;Baixo;Atrasado
+316;320;2025-02-05 22:00:00;1;685,25;7199,0;3;2;4;Fernando Rocha;Caminhão Frigorífico;Rede Supermercados TOP;Varejo;PR;Curitiba;2;0;1;0;10,51;0,95;1;Baixo;No Prazo
+327;331;2025-01-24 11:00:00;1;907,78;9010,0;2;1;6;Fernando Rocha;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;0;9,93;0,915;1;Baixo;No Prazo
+344;348;2025-03-25 10:00:00;1;402,87;2660,0;2;3;3;Fernando Rocha;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;1;0;0;0;6,6;0,92;1;Baixo;No Prazo
+353;357;2025-04-23 05:00:00;1;714,74;6501,0;1;4;4;Fernando Rocha;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;2;0;1;1;9,1;0,67;1;Medio;No Prazo
+371;376;2025-05-24 22:00:00;1;354,86;1485,0;3;5;7;Fernando Rocha;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;2;1;0;0;4,18;0,905;1;Baixo;No Prazo
+377;382;2025-06-10 06:00:00;0;320,03;2370,0;2;6;3;Fernando Rocha;Caminhão Frigorífico;Rede Supermercados TOP;Varejo;PR;Curitiba;1;0;0;0;7,41;0,25;0;Alto;Atrasado
+386;391;2025-03-18 03:00:00;1;468,01;3500,0;1;3;3;Fernando Rocha;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;1;0;0;1;7,48;0,955;1;Baixo;No Prazo
+387;392;2025-04-22 09:00:00;1;1054,72;10552,0;3;4;3;Fernando Rocha;Caminhão Frigorífico;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;4;0;1;0;10,0;0,905;1;Baixo;No Prazo
+390;395;2025-05-21 21:00:00;1;364,88;2870,0;1;5;4;Fernando Rocha;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;1;0;0;1;7,87;0,92;1;Baixo;No Prazo
+30;30;2025-01-26 04:00:00;1;726,77;4464,0;1;1;1;José Oliveira;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;3;1;1;1;6,14;0,915;1;Baixo;No Prazo
+61;62;2025-01-06 01:00:00;1;1564,86;7326,0;2;1;2;José Oliveira;Caminhão Baú;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;0;4,68;0,94;1;Baixo;No Prazo
+100;101;2025-01-23 18:00:00;1;732,72;6083,0;1;1;5;José Oliveira;Caminhão Baú;Atacado Premium;Atacado;SP;Ribeirão Preto;3;0;1;1;8,3;0,9;1;Baixo;No Prazo
+115;116;2025-01-08 17:00:00;1;879,54;4119,0;3;1;4;José Oliveira;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;3;0;1;0;4,68;0,905;1;Baixo;No Prazo
+119;120;2025-06-15 12:00:00;1;277,95;2958,0;3;6;1;José Oliveira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;2;1;0;0;10,64;0,9;1;Baixo;No Prazo
+142;143;2025-01-07 22:00:00;1;270,4;2520,0;2;1;3;José Oliveira;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;1;0;0;0;9,32;0,88;1;Baixo;No Prazo
+145;146;2025-04-30 11:00:00;1;906,88;7719,0;1;4;4;José Oliveira;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;0;1;1;8,51;0,895;1;Baixo;No Prazo
+153;154;2025-01-13 07:00:00;1;598,32;3456,0;2;1;2;José Oliveira;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;2;0;1;0;5,78;0,89;1;Baixo;No Prazo
+158;159;2025-03-19 05:00:00;1;88,53;735,0;3;3;4;José Oliveira;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;1;0;0;0;8,3;0,86;1;Baixo;No Prazo
+164;165;2025-01-24 20:00:00;1;802,15;8208,0;3;1;6;José Oliveira;Caminhão Baú;Churrascaria do Sul;Food Service;RS;Porto Alegre;4;0;1;0;10,23;0,885;1;Baixo;No Prazo
+177;178;2025-03-23 10:00:00;1;714,15;4937,0;1;3;1;José Oliveira;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;3;1;1;1;6,91;0,865;1;Baixo;No Prazo
+189;191;2025-05-17 09:00:00;1;733,87;10335,0;3;5;7;José Oliveira;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;2;1;1;0;14,08;0,685;1;Medio;No Prazo
+198;200;2025-01-05 05:00:00;1;1679,98;14613,0;2;1;1;José Oliveira;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;4;1;1;0;8,7;0,86;1;Baixo;No Prazo
+228;230;2025-01-24 04:00:00;1;1283,77;6337,0;1;1;6;José Oliveira;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;4;0;1;1;4,94;0,855;1;Baixo;No Prazo
+242;245;2025-03-13 09:00:00;1;653,13;2475,0;3;3;5;José Oliveira;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;0;3,79;0,9;1;Baixo;No Prazo
+246;249;2025-06-03 06:00:00;1;81,11;560,0;3;6;3;José Oliveira;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;1;0;0;0;6,9;0,575;1;Medio;No Prazo
+251;254;2025-04-03 14:00:00;1;703,78;6813,0;3;4;5;José Oliveira;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;0;9,68;0,905;1;Baixo;No Prazo
+296;300;2025-01-24 17:00:00;0;612,58;5567,0;2;1;6;José Oliveira;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;1;0;9,09;0,21;0;Alto;Atrasado
+312;316;2025-03-01 04:00:00;0;1094,42;4492,0;1;3;7;José Oliveira;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;3;1;1;1;4,1;0,255;0;Alto;Atrasado
+336;340;2025-04-18 05:00:00;1;1077,22;7535,0;1;4;6;José Oliveira;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;4;0;1;1;6,99;0,91;1;Baixo;No Prazo
+357;361;2025-04-24 19:00:00;1;1077,28;6835,0;1;4;5;José Oliveira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;3;0;1;1;6,34;0,83;1;Baixo;No Prazo
+358;362;2025-01-12 16:00:00;0;791,0;6194,0;2;1;1;José Oliveira;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;4;1;1;0;7,83;0,395;0;Alto;Atrasado
+372;377;2025-05-28 18:00:00;0;866,84;5000,0;1;5;4;José Oliveira;Caminhão Baú;Churrascaria do Sul;Food Service;RS;Porto Alegre;2;0;1;1;5,77;0,25;0;Alto;Atrasado
+378;383;2025-02-14 00:00:00;1;569,31;7735,0;3;2;6;José Oliveira;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;3;0;1;0;13,59;0,63;1;Medio;No Prazo
+10;10;2025-02-25 09:00:00;1;846,34;4598,0;1;2;3;Ricardo Alves;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;1;5,43;0,85;1;Baixo;No Prazo
+32;32;2025-04-28 04:00:00;0;1299,85;8590,0;3;4;2;Ricardo Alves;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;4;0;1;0;6,61;0,325;0;Alto;Atrasado
+46;46;2025-06-14 16:00:00;1;319,8;2905,0;3;6;7;Ricardo Alves;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;1;1;0;0;9,08;0,71;1;Baixo;No Prazo
+50;51;2025-01-19 20:00:00;1;964,17;8503,0;3;1;1;Ricardo Alves;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;3;1;1;0;8,82;0,535;1;Medio;No Prazo
+53;54;2025-03-28 20:00:00;0;220,22;624,0;2;3;6;Ricardo Alves;Van Refrigerada;Mercadão do Povo;Varejo;CE;Fortaleza;1;0;0;0;2,83;0,26;0;Alto;Atrasado
+58;59;2025-03-30 17:00:00;1;1171,22;6768,0;3;3;1;Ricardo Alves;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;3;1;1;0;5,78;0,895;1;Baixo;No Prazo
+90;91;2025-03-03 16:00:00;0;980,62;4362,0;3;3;2;Ricardo Alves;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;3;0;1;0;4,45;0,19;0;Alto;Atrasado
+99;100;2025-06-24 20:00:00;0;1211,61;9333,0;2;6;3;Ricardo Alves;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;4;0;1;0;7,7;0,355;0;Alto;Atrasado
+112;113;2025-03-06 14:00:00;1;683,73;8597,0;1;3;5;Ricardo Alves;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;2;0;1;1;12,57;0,63;1;Medio;No Prazo
+113;114;2025-02-22 16:00:00;0;182,27;1760,0;1;2;7;Ricardo Alves;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;1;1;0;1;9,66;0,2;0;Alto;Atrasado
+120;121;2025-03-23 09:00:00;1;582,44;3477,0;1;3;1;Ricardo Alves;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;3;1;1;1;5,97;0,915;1;Baixo;No Prazo
+121;122;2025-04-10 18:00:00;0;608,4;2526,0;3;4;5;Ricardo Alves;Van Refrigerada;Churrascaria do Sul;Food Service;RS;Porto Alegre;2;0;1;0;4,15;0,25;0;Alto;Atrasado
+123;124;2025-04-06 01:00:00;0;724,17;5283,0;2;4;1;Ricardo Alves;Van Refrigerada;Churrascaria do Sul;Food Service;RS;Porto Alegre;3;1;1;0;7,3;0,285;0;Alto;Atrasado
+130;131;2025-03-14 19:00:00;0;808,88;3700,0;2;3;6;Ricardo Alves;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;1;0;4,57;0,165;0;Alto;Atrasado
+146;147;2025-06-03 11:00:00;1;325,8;3120,0;1;6;3;Ricardo Alves;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;1;0;0;1;9,58;0,885;1;Baixo;No Prazo
+163;164;2025-02-11 00:00:00;1;244,19;2578,0;2;2;3;Ricardo Alves;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;2;0;0;0;10,56;0,88;1;Baixo;No Prazo
+174;175;2025-05-23 08:00:00;1;1454,64;11280,0;3;5;6;Ricardo Alves;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;4;0;1;0;7,75;0,9;1;Baixo;No Prazo
+212;214;2025-04-04 01:00:00;1;1111,25;6369,0;2;4;6;Ricardo Alves;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;4;0;1;0;5,73;0,71;1;Baixo;No Prazo
+214;216;2025-03-03 08:00:00;1;1106,17;6886,0;2;3;2;Ricardo Alves;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;3;0;1;0;6,23;0,775;1;Baixo;No Prazo
+224;226;2025-03-21 13:00:00;0;911,02;8269,0;2;3;6;Ricardo Alves;Van Refrigerada;Churrascaria do Sul;Food Service;RS;Porto Alegre;4;0;1;0;9,08;0,585;1;Medio;Atrasado
+254;257;2025-05-14 23:00:00;1;486,92;3572,0;2;5;4;Ricardo Alves;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;0;0;0;7,34;0,86;1;Baixo;No Prazo
+261;264;2025-05-09 16:00:00;1;358,57;975,0;1;5;6;Ricardo Alves;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;1;0;0;1;2,72;0,9;1;Baixo;No Prazo
+301;305;2025-05-26 09:00:00;1;899,89;9040,0;1;5;2;Ricardo Alves;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;1;10,05;0,83;1;Baixo;No Prazo
+309;313;2025-04-13 03:00:00;1;1001,05;7500,0;2;4;1;Ricardo Alves;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;2;1;1;0;7,49;0,84;1;Baixo;No Prazo
+322;326;2025-02-09 04:00:00;1;700,05;4979,0;1;2;1;Ricardo Alves;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;2;1;1;1;7,11;0,83;1;Baixo;No Prazo
+324;328;2025-04-30 02:00:00;0;564,9;1425,0;3;4;4;Ricardo Alves;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;1;0;1;0;2,52;0,53;1;Medio;Atrasado
+328;332;2025-06-27 18:00:00;1;683,25;4419,0;1;6;6;Ricardo Alves;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;2;0;1;1;6,47;0,865;1;Baixo;No Prazo
+341;345;2025-03-21 09:00:00;1;1085,49;7123,0;1;3;6;Ricardo Alves;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;3;0;1;1;6,56;0,89;1;Baixo;No Prazo
+350;354;2025-05-26 04:00:00;1;301,44;2310,0;3;5;2;Ricardo Alves;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;1;0;0;0;7,66;0,665;1;Medio;No Prazo
+379;384;2025-06-08 13:00:00;1;1200,76;8194,0;1;6;1;Ricardo Alves;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;3;1;1;1;6,82;0,91;1;Baixo;No Prazo
+394;399;2025-06-05 12:00:00;0;959,72;11165,0;1;6;5;Ricardo Alves;Van Refrigerada;Frigorífico Nobre;Atacado;MS;Campo Grande;2;0;1;1;11,63;0,25;0;Alto;Atrasado
+6;6;2025-06-11 20:00:00;0;939,65;5830,0;2;6;4;Eduardo Santos;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;4;0;1;0;6,2;0,29;0;Alto;Atrasado
+7;7;2025-04-23 16:00:00;1;391,16;1628,0;1;4;4;Eduardo Santos;Caminhão Frigorífico;Distribuidor Norte;Atacado;AM;Manaus;1;0;0;1;4,16;0,91;1;Baixo;No Prazo
+16;16;2025-02-09 22:00:00;0;489,83;3915,0;1;2;1;Eduardo Santos;Caminhão Frigorífico;Hotel Fazenda;Hotelaria;SP;Brotas;2;1;0;1;7,99;0,285;0;Alto;Atrasado
+76;77;2025-01-05 22:00:00;1;257,33;2350,0;1;1;1;Eduardo Santos;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;2;1;0;1;9,13;0,865;1;Baixo;No Prazo
+111;112;2025-04-10 15:00:00;1;336,62;3990,0;2;4;5;Eduardo Santos;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;2;0;0;0;11,85;0,895;1;Baixo;No Prazo
+116;117;2025-06-15 04:00:00;1;1457,0;8419,0;1;6;1;Eduardo Santos;Caminhão Frigorífico;Distribuidor Norte;Atacado;AM;Manaus;4;1;1;1;5,78;0,95;1;Baixo;No Prazo
+125;126;2025-06-07 00:00:00;1;1094,56;6756,0;3;6;7;Eduardo Santos;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;3;1;1;0;6,17;0,945;1;Baixo;No Prazo
+128;129;2025-04-19 13:00:00;1;701,48;5419,0;1;4;7;Eduardo Santos;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;2;1;1;1;7,73;0,91;1;Baixo;No Prazo
+147;148;2025-02-06 15:00:00;1;323,01;2220,0;1;2;5;Eduardo Santos;Caminhão Frigorífico;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;0;1;6,87;0,945;1;Baixo;No Prazo
+195;197;2025-01-05 10:00:00;1;427,71;876,0;2;1;1;Eduardo Santos;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;1;1;0;0;2,05;0,73;1;Baixo;No Prazo
+196;198;2025-02-01 14:00:00;1;484,54;5085,0;1;2;7;Eduardo Santos;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;1;1;0;1;10,49;0,925;1;Baixo;No Prazo
+255;258;2025-02-09 17:00:00;0;533,89;3220,0;3;2;1;Eduardo Santos;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;1;1;1;0;6,03;0,3;0;Alto;Atrasado
+257;260;2025-02-01 03:00:00;1;258,46;1708,0;1;2;7;Eduardo Santos;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;1;0;1;6,61;0,905;1;Baixo;No Prazo
+269;272;2025-05-07 08:00:00;1;724,02;6112,0;3;5;4;Eduardo Santos;Caminhão Frigorífico;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;0;8,44;0,945;1;Baixo;No Prazo
+283;286;2025-05-23 19:00:00;1;1374,65;9309,0;1;5;6;Eduardo Santos;Caminhão Frigorífico;Rede Supermercados TOP;Varejo;PR;Curitiba;4;0;1;1;6,77;0,945;1;Baixo;No Prazo
+288;291;2025-01-31 19:00:00;1;775,64;6832,0;1;1;6;Eduardo Santos;Caminhão Frigorífico;Mercadão do Povo;Varejo;CE;Fortaleza;4;0;1;1;8,81;0,87;1;Baixo;No Prazo
+308;312;2025-05-03 21:00:00;1;738,89;7516,0;2;5;7;Eduardo Santos;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;2;1;1;0;10,17;0,92;1;Baixo;No Prazo
+330;334;2025-06-09 23:00:00;1;1029,26;7422,0;3;6;2;Eduardo Santos;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;0;7,21;0,89;1;Baixo;No Prazo
+334;338;2025-03-03 01:00:00;1;549,44;2940,0;3;3;2;Eduardo Santos;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;2;0;1;0;5,35;0,9;1;Baixo;No Prazo
+342;346;2025-02-08 04:00:00;1;434,58;4565,0;3;2;7;Eduardo Santos;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;1;1;0;0;10,5;0,91;1;Baixo;No Prazo
+349;353;2025-03-02 05:00:00;1;403,22;3240,0;1;3;1;Eduardo Santos;Caminhão Frigorífico;Rede Supermercados TOP;Varejo;PR;Curitiba;1;1;0;1;8,04;0,695;1;Medio;No Prazo
+19;19;2025-05-19 18:00:00;0;701,63;4607,0;1;5;2;Leandro Ferreira;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;3;0;1;1;6,57;0,16;0;Alto;Atrasado
+20;20;2025-02-05 20:00:00;1;110,69;435,0;1;2;4;Leandro Ferreira;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;0;0;1;3,93;0,6;1;Medio;No Prazo
+77;78;2025-04-05 01:00:00;0;271,18;4070,0;1;4;7;Leandro Ferreira;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;1;1;0;1;15,01;0,215;0;Alto;Atrasado
+82;83;2025-02-10 17:00:00;0;677,83;4384,0;1;2;2;Leandro Ferreira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;2;0;1;1;6,47;0,43;0;Medio;Atrasado
+85;86;2025-06-23 11:00:00;0;1184,8;10792,0;3;6;2;Leandro Ferreira;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;4;0;1;0;9,11;0,61;1;Medio;Atrasado
+103;104;2025-04-19 11:00:00;1;1213,2;6688,0;2;4;7;Leandro Ferreira;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;4;1;1;0;5,51;0,62;1;Medio;No Prazo
+118;119;2025-06-19 22:00:00;0;936,37;7260,0;3;6;5;Leandro Ferreira;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;0;7,75;0,295;0;Alto;Atrasado
+141;142;2025-02-13 16:00:00;1;953,47;6681,0;1;2;5;Leandro Ferreira;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;1;7,01;0,755;1;Baixo;No Prazo
+161;162;2025-01-28 00:00:00;1;461,71;3915,0;3;1;3;Leandro Ferreira;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;1;0;0;0;8,48;0,85;1;Baixo;No Prazo
+169;170;2025-02-06 22:00:00;1;618,08;2918,0;3;2;5;Leandro Ferreira;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;1;0;4,72;0,835;1;Baixo;No Prazo
+170;171;2025-05-21 18:00:00;1;1235,71;7500,0;3;5;4;Leandro Ferreira;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;3;0;1;0;6,07;0,81;1;Baixo;No Prazo
+194;196;2025-02-10 11:00:00;0;956,45;5429,0;1;2;2;Leandro Ferreira;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;4;0;1;1;5,68;0,215;0;Alto;Atrasado
+210;212;2025-02-15 19:00:00;1;446,36;1684,0;1;2;7;Leandro Ferreira;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;2;1;0;1;3,77;0,8;1;Baixo;No Prazo
+226;228;2025-05-28 00:00:00;0;1314,75;12142,0;1;5;4;Leandro Ferreira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;3;0;1;1;9,24;0,645;1;Medio;Atrasado
+230;232;2025-05-28 04:00:00;1;189,4;540,0;3;5;4;Leandro Ferreira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;1;0;0;0;2,85;0,785;1;Baixo;No Prazo
+247;250;2025-05-03 18:00:00;0;742,78;4273,0;1;5;7;Leandro Ferreira;Caminhão Baú;Atacado Premium;Atacado;SP;Ribeirão Preto;2;1;1;1;5,75;0,23;0;Alto;Atrasado
+252;255;2025-01-30 14:00:00;1;97,71;276,0;3;1;5;Leandro Ferreira;Caminhão Baú;Hotel Grand Premium;Hotelaria;SC;Florianópolis;1;0;0;0;2,82;0,62;1;Medio;No Prazo
+256;259;2025-03-24 23:00:00;0;1097,48;8136,0;3;3;2;Leandro Ferreira;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;3;0;1;0;7,41;0,385;0;Alto;Atrasado
+311;315;2025-06-23 04:00:00;1;1214,27;5634,0;3;6;2;Leandro Ferreira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;4;0;1;0;4,64;0,805;1;Baixo;No Prazo
+326;330;2025-03-04 02:00:00;1;600,95;2713,0;3;3;3;Leandro Ferreira;Caminhão Baú;Churrascaria do Sul;Food Service;RS;Porto Alegre;3;0;1;0;4,51;0,79;1;Baixo;No Prazo
+338;342;2025-01-26 12:00:00;0;909,92;7502,0;3;1;1;Leandro Ferreira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;3;1;1;0;8,24;0,25;0;Alto;Atrasado
+339;343;2025-05-04 22:00:00;0;72,69;308,0;3;5;1;Leandro Ferreira;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;1;1;0;0;4,24;0,275;0;Alto;Atrasado
+340;344;2025-04-23 20:00:00;0;520,63;3150,0;1;4;4;Leandro Ferreira;Caminhão Baú;Frigorífico Nobre;Atacado;MS;Campo Grande;1;0;1;1;6,05;0,235;0;Alto;Atrasado
+345;349;2025-03-21 05:00:00;1;1046,54;9092,0;1;3;6;Leandro Ferreira;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;4;0;1;1;8,69;0,865;1;Baixo;No Prazo
+362;367;2025-02-04 11:00:00;1;1147,07;12570,0;3;2;3;Leandro Ferreira;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;3;0;1;0;10,96;0,875;1;Baixo;No Prazo
+385;390;2025-04-11 22:00:00;0;1259,23;6453,0;1;4;6;Leandro Ferreira;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;4;0;1;1;5,12;0,295;0;Alto;Atrasado
+393;398;2025-05-28 02:00:00;0;342,17;2468,0;2;5;4;Leandro Ferreira;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;3;0;0;0;7,21;0,23;0;Alto;Atrasado
+3;3;2025-04-28 21:00:00;0;1051,28;6267,0;1;4;2;Marcelo Pereira;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;3;0;1;1;5,96;0,565;1;Medio;Atrasado
+9;9;2025-01-23 22:00:00;1;364,75;1620,0;3;1;5;Marcelo Pereira;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;1;0;0;0;4,44;0,935;1;Baixo;No Prazo
+14;14;2025-02-17 00:00:00;0;894,5;7564,0;1;2;2;Marcelo Pereira;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;2;0;1;1;8,46;0,27;0;Alto;Atrasado
+25;25;2025-02-28 15:00:00;0;666,13;6570,0;3;2;6;Marcelo Pereira;Van Refrigerada;Mercadão do Povo;Varejo;CE;Fortaleza;2;0;1;0;9,86;0,25;0;Alto;Atrasado
+27;27;2025-04-23 17:00:00;0;358,45;2786,0;1;4;4;Marcelo Pereira;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;2;0;0;1;7,77;0,7;1;Medio;Atrasado
+29;29;2025-02-24 09:00:00;1;1304,31;9660,0;1;2;2;Marcelo Pereira;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;3;0;1;1;7,41;0,725;1;Baixo;No Prazo
+35;35;2025-05-05 20:00:00;1;1093,5;4590,0;1;5;2;Marcelo Pereira;Van Refrigerada;Churrascaria do Sul;Food Service;RS;Porto Alegre;3;0;1;1;4,2;0,785;1;Baixo;No Prazo
+41;41;2025-05-01 10:00:00;1;655,55;5577,0;3;5;5;Marcelo Pereira;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;3;0;1;0;8,51;0,71;1;Baixo;No Prazo
+47;47;2025-03-07 05:00:00;1;232,0;2736,0;1;3;6;Marcelo Pereira;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;0;0;1;11,79;0,76;1;Baixo;No Prazo
+83;84;2025-01-08 22:00:00;0;654,49;3345,0;1;1;4;Marcelo Pereira;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;3;0;1;1;5,11;0,63;1;Medio;Atrasado
+129;130;2025-05-16 19:00:00;1;926,09;9205,0;2;5;6;Marcelo Pereira;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;2;0;1;0;9,94;0,8;1;Baixo;No Prazo
+135;136;2025-01-10 22:00:00;0;200,7;2070,0;3;1;6;Marcelo Pereira;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;1;0;0;0;10,31;0,27;0;Alto;Atrasado
+136;137;2025-02-20 11:00:00;1;705,09;6104,0;1;2;5;Marcelo Pereira;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;0;1;1;8,66;0,585;1;Medio;No Prazo
+138;139;2025-04-10 11:00:00;1;1058,1;10926,0;1;4;5;Marcelo Pereira;Van Refrigerada;Distribuidor Norte;Atacado;AM;Manaus;3;0;1;1;10,33;0,845;1;Baixo;No Prazo
+154;155;2025-04-09 17:00:00;1;646,95;5550,0;3;4;4;Marcelo Pereira;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;2;0;1;0;8,58;0,815;1;Baixo;No Prazo
+173;174;2025-03-24 16:00:00;0;66,57;336,0;1;3;2;Marcelo Pereira;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;1;0;0;1;5,05;0,27;0;Alto;Atrasado
+180;181;2025-05-28 04:00:00;0;781,71;3699,0;1;5;4;Marcelo Pereira;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;3;0;1;1;4,73;0,22;0;Alto;Atrasado
+184;185;2025-03-06 08:00:00;1;600,02;3382,0;1;3;5;Marcelo Pereira;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;1;5,64;0,815;1;Baixo;No Prazo
+187;188;2025-04-24 02:00:00;1;811,0;7095,0;1;4;5;Marcelo Pereira;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;4;0;1;1;8,75;0,8;1;Baixo;No Prazo
+197;199;2025-05-09 08:00:00;0;530,71;5394,0;1;5;6;Marcelo Pereira;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;3;0;1;1;10,16;0,2;0;Alto;Atrasado
+208;210;2025-05-31 07:00:00;1;64,68;630,0;3;5;7;Marcelo Pereira;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;1;1;0;0;9,74;0,755;1;Baixo;No Prazo
+236;239;2025-05-25 10:00:00;1;753,32;5256,0;2;5;1;Marcelo Pereira;Van Refrigerada;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;1;1;0;6,98;0,81;1;Baixo;No Prazo
+239;242;2025-04-02 12:00:00;0;809,01;5579,0;1;4;4;Marcelo Pereira;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;1;6,9;0,245;0;Alto;Atrasado
+243;246;2025-04-10 14:00:00;0;543,82;4990,0;1;4;5;Marcelo Pereira;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;2;0;1;1;9,18;0,245;0;Alto;Atrasado
+244;247;2025-03-22 06:00:00;0;1157,98;6742,0;1;3;7;Marcelo Pereira;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;1;1;1;5,82;0,595;1;Medio;Atrasado
+263;266;2025-06-30 18:00:00;0;739,43;4638,0;1;6;2;Marcelo Pereira;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;3;0;1;1;6,27;0,185;0;Alto;Atrasado
+270;273;2025-06-20 13:00:00;1;1133,26;7922,0;2;6;6;Marcelo Pereira;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;3;0;1;0;6,99;0,915;1;Baixo;No Prazo
+302;306;2025-06-24 07:00:00;0;826,77;9196,0;2;6;3;Marcelo Pereira;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;3;0;1;0;11,12;0,195;0;Alto;Atrasado
+320;324;2025-04-17 16:00:00;1;104,46;324,0;3;4;5;Marcelo Pereira;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;1;0;0;0;3,1;0,785;1;Baixo;No Prazo
+348;352;2025-01-15 04:00:00;1;293,89;1652,0;2;1;4;Marcelo Pereira;Van Refrigerada;Mercadão do Povo;Varejo;CE;Fortaleza;1;0;0;0;5,62;0,855;1;Baixo;No Prazo
+356;360;2025-01-11 00:00:00;1;227,4;1364,0;1;1;7;Marcelo Pereira;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;1;1;0;1;6,0;0,88;1;Baixo;No Prazo
+366;371;2025-05-02 11:00:00;0;893,21;6790,0;1;5;6;Marcelo Pereira;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;3;0;1;1;7,6;0,265;0;Alto;Atrasado
+381;386;2025-05-03 04:00:00;1;1336,92;8269,0;1;5;7;Marcelo Pereira;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;4;1;1;1;6,19;0,77;1;Baixo;No Prazo
+388;393;2025-02-04 22:00:00;1;576,78;1224,0;3;2;3;Marcelo Pereira;Van Refrigerada;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;0;1;0;2,12;0,85;1;Baixo;No Prazo
+395;400;2025-02-08 09:00:00;1;854,28;9512,0;1;2;7;Marcelo Pereira;Van Refrigerada;Frigorífico Nobre;Atacado;MS;Campo Grande;2;1;1;1;11,13;0,74;1;Baixo;No Prazo
+23;23;2025-01-12 06:00:00;0;877,21;5842,0;1;1;1;Rodrigo Carvalho;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;2;1;1;1;6,66;0,7;1;Medio;Atrasado
+34;34;2025-04-18 09:00:00;1;1293,14;7566,0;1;4;6;Rodrigo Carvalho;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;4;0;1;1;5,85;0,93;1;Baixo;No Prazo
+44;44;2025-03-12 04:00:00;1;624,44;3740,0;1;3;4;Rodrigo Carvalho;Caminhão Frigorífico;Hotel Fazenda;Hotelaria;SP;Brotas;2;0;1;1;5,99;0,62;1;Medio;No Prazo
+49;49;2025-02-11 06:00:00;1;42,26;120,0;3;2;3;Rodrigo Carvalho;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;1;0;0;0;2,84;0,76;1;Baixo;No Prazo
+59;60;2025-04-28 21:00:00;0;411,27;3526,0;3;4;2;Rodrigo Carvalho;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;2;0;0;0;8,57;0,825;1;Baixo;Atrasado
+105;106;2025-05-31 01:00:00;1;1192,45;5803,0;3;5;7;Rodrigo Carvalho;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;3;1;1;0;4,87;0,735;1;Baixo;No Prazo
+127;128;2025-01-15 09:00:00;1;279,9;1978,0;1;1;4;Rodrigo Carvalho;Caminhão Frigorífico;Distribuidor Norte;Atacado;AM;Manaus;2;0;0;1;7,07;0,96;1;Baixo;No Prazo
+144;145;2025-01-22 04:00:00;1;466,5;3120,0;1;1;4;Rodrigo Carvalho;Caminhão Frigorífico;Mercadão do Povo;Varejo;CE;Fortaleza;2;0;0;1;6,69;0,81;1;Baixo;No Prazo
+176;177;2025-03-10 23:00:00;1;1154,88;5956,0;2;3;2;Rodrigo Carvalho;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;0;5,16;0,91;1;Baixo;No Prazo
+190;192;2025-02-07 03:00:00;0;980,12;6073,0;1;2;6;Rodrigo Carvalho;Caminhão Frigorífico;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;0;1;1;6,2;0,325;0;Alto;Atrasado
+202;204;2025-02-23 20:00:00;1;941,12;8533,0;1;2;1;Rodrigo Carvalho;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;4;1;1;1;9,07;0,87;1;Baixo;No Prazo
+209;211;2025-02-02 09:00:00;1;356,86;996,0;3;2;1;Rodrigo Carvalho;Caminhão Frigorífico;Distribuidor Norte;Atacado;AM;Manaus;1;1;0;0;2,79;0,935;1;Baixo;No Prazo
+237;240;2025-01-16 16:00:00;1;1183,84;9334,0;1;1;5;Rodrigo Carvalho;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;1;7,88;0,9;1;Baixo;No Prazo
+259;262;2025-01-02 02:00:00;1;803,28;8065,0;3;1;5;Rodrigo Carvalho;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;3;0;1;0;10,04;0,82;1;Baixo;No Prazo
+265;268;2025-06-28 05:00:00;1;410,82;1630,0;1;6;7;Rodrigo Carvalho;Caminhão Frigorífico;Hotel Fazenda;Hotelaria;SP;Brotas;2;1;0;1;3,97;0,82;1;Baixo;No Prazo
+266;269;2025-03-03 08:00:00;1;1004,71;8291,0;2;3;2;Rodrigo Carvalho;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;3;0;1;0;8,25;0,78;1;Baixo;No Prazo
+299;303;2025-04-15 14:00:00;0;97,62;588,0;2;4;3;Rodrigo Carvalho;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;1;0;0;0;6,02;0,265;0;Alto;Atrasado
+321;325;2025-02-19 22:00:00;1;370,41;1845,0;3;2;4;Rodrigo Carvalho;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;2;0;0;0;4,98;0,96;1;Baixo;No Prazo
+343;347;2025-06-29 03:00:00;1;599,22;6450,0;1;6;1;Rodrigo Carvalho;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;2;1;1;1;10,76;0,56;1;Medio;No Prazo
+370;375;2025-06-23 17:00:00;1;1659,4;9342,0;1;6;2;Rodrigo Carvalho;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;4;0;1;1;5,63;0,945;1;Baixo;No Prazo
+382;387;2025-06-02 13:00:00;1;486,86;1701,0;3;6;2;Rodrigo Carvalho;Caminhão Frigorífico;Mercado do Bairro;Varejo;SP;São Paulo;2;0;0;0;3,49;0,915;1;Baixo;No Prazo
+392;397;2025-05-18 07:00:00;1;1204,31;9092,0;2;5;1;Rodrigo Carvalho;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;4;1;1;0;7,55;0,955;1;Baixo;No Prazo
+15;15;2025-04-16 10:00:00;1;352,18;3243,0;3;4;4;Fábio Nascimento;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;2;0;0;0;9,21;0,65;1;Medio;No Prazo
+48;48;2025-01-23 17:00:00;1;1144,53;10927,0;1;1;5;Fábio Nascimento;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;0;1;1;9,55;0,89;1;Baixo;No Prazo
+75;76;2025-03-02 02:00:00;0;828,44;4737,0;1;3;1;Fábio Nascimento;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;2;1;1;1;5,72;0,245;0;Alto;Atrasado
+86;87;2025-04-14 03:00:00;1;280,13;1440,0;1;4;2;Fábio Nascimento;Caminhão Baú;Supermercado Central;Varejo;SP;Araraquara;1;0;0;1;5,14;0,81;1;Baixo;No Prazo
+97;98;2025-06-20 22:00:00;1;626,98;2316,0;1;6;6;Fábio Nascimento;Caminhão Baú;Frigorífico Nobre;Atacado;MS;Campo Grande;2;0;1;1;3,69;0,835;1;Baixo;No Prazo
+109;110;2025-06-20 00:00:00;0;1327,27;7713,0;1;6;6;Fábio Nascimento;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;4;0;1;1;5,81;0,285;0;Alto;Atrasado
+148;149;2025-05-25 01:00:00;1;555,96;5668,0;2;5;1;Fábio Nascimento;Caminhão Baú;Frigorífico Nobre;Atacado;MS;Campo Grande;2;1;1;0;10,19;0,835;1;Baixo;No Prazo
+160;161;2025-02-24 19:00:00;0;1548,62;10731,0;1;2;2;Fábio Nascimento;Caminhão Baú;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;1;6,93;0,8;1;Baixo;Atrasado
+162;163;2025-04-27 23:00:00;1;1079,9;7307,0;1;4;1;Fábio Nascimento;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;3;1;1;1;6,77;0,79;1;Baixo;No Prazo
+179;180;2025-04-16 22:00:00;0;1000,47;9237,0;3;4;4;Fábio Nascimento;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;4;0;1;0;9,23;0,28;0;Alto;Atrasado
+181;182;2025-03-10 05:00:00;0;717,82;6600,0;1;3;2;Fábio Nascimento;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;1;0;1;1;9,19;0,22;0;Alto;Atrasado
+186;187;2025-03-24 22:00:00;1;562,3;6010,0;3;3;2;Fábio Nascimento;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;2;0;1;0;10,69;0,88;1;Baixo;No Prazo
+200;202;2025-03-22 22:00:00;0;1666,03;10358,0;1;3;7;Fábio Nascimento;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;1;1;1;6,22;0,31;0;Alto;Atrasado
+205;207;2025-02-02 00:00:00;1;343,64;4345,0;2;2;1;Fábio Nascimento;Caminhão Baú;Supermercado Família;Varejo;SP;Campinas;2;1;0;0;12,64;0,62;1;Medio;No Prazo
+213;215;2025-02-11 06:00:00;0;820,47;3684,0;3;2;3;Fábio Nascimento;Caminhão Baú;Mercado do Bairro;Varejo;SP;São Paulo;2;0;1;0;4,49;0,285;0;Alto;Atrasado
+238;241;2025-06-26 23:00:00;0;1358,61;10795,0;1;6;5;Fábio Nascimento;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;4;0;1;1;7,95;0,65;1;Medio;Atrasado
+248;251;2025-03-15 11:00:00;0;168,95;1925,0;2;3;7;Fábio Nascimento;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;1;1;0;0;11,39;0,19;0;Alto;Atrasado
+250;253;2025-04-27 22:00:00;0;678,76;5313,0;1;4;1;Fábio Nascimento;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;4;1;1;1;7,83;0,53;1;Medio;Atrasado
+264;267;2025-04-02 11:00:00;0;563,73;3775,0;1;4;4;Fábio Nascimento;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;4;0;1;1;6,7;0,235;0;Alto;Atrasado
+273;276;2025-06-26 20:00:00;0;427,93;2340,0;3;6;5;Fábio Nascimento;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;1;0;0;0;5,47;0,295;0;Alto;Atrasado
+284;287;2025-05-13 03:00:00;1;712,06;2073,0;3;5;3;Fábio Nascimento;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;2;0;1;0;2,91;0,85;1;Baixo;No Prazo
+289;292;2025-03-09 15:00:00;0;1126,2;6086,0;1;3;1;Fábio Nascimento;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;4;1;1;1;5,4;0,68;1;Medio;Atrasado
+292;296;2025-03-02 08:00:00;1;1508,73;11645,0;2;3;1;Fábio Nascimento;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;4;1;1;0;7,72;0,735;1;Baixo;No Prazo
+293;297;2025-04-21 09:00:00;1;830,09;5458,0;3;4;2;Fábio Nascimento;Caminhão Baú;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;0;6,58;0,895;1;Baixo;No Prazo
+297;301;2025-06-14 07:00:00;1;586,54;3540,0;2;6;7;Fábio Nascimento;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;1;1;1;0;6,04;0,795;1;Baixo;No Prazo
+304;308;2025-02-01 07:00:00;1;1413,64;8404,0;2;2;7;Fábio Nascimento;Caminhão Baú;Mercadão do Povo;Varejo;CE;Fortaleza;4;1;1;0;5,94;0,855;1;Baixo;No Prazo
+319;323;2025-04-08 06:00:00;1;334,68;3420,0;2;4;3;Fábio Nascimento;Caminhão Baú;Hotel Fazenda;Hotelaria;SP;Brotas;1;0;0;0;10,22;0,645;1;Medio;No Prazo
+323;327;2025-01-16 05:00:00;0;1283,43;10679,0;3;1;5;Fábio Nascimento;Caminhão Baú;Atacadão Regional;Atacado;GO;Goiânia;4;0;1;0;8,32;0,715;1;Baixo;Atrasado
+332;336;2025-05-28 15:00:00;1;795,47;5160,0;1;5;4;Fábio Nascimento;Caminhão Baú;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;1;6,49;0,715;1;Baixo;No Prazo
+360;364;2025-01-08 18:00:00;0;698,93;4914,0;1;1;4;Fábio Nascimento;Caminhão Baú;Distribuidor Norte;Atacado;AM;Manaus;2;0;1;1;7,03;0,215;0;Alto;Atrasado
+373;378;2025-03-20 13:00:00;1;841,43;3290,0;3;3;5;Fábio Nascimento;Caminhão Baú;Rede Supermercados TOP;Varejo;PR;Curitiba;3;0;1;0;3,91;0,83;1;Baixo;No Prazo
+384;389;2025-01-20 00:00:00;1;1418,84;11753,0;1;1;2;Fábio Nascimento;Caminhão Baú;Restaurante Bom Sabor;Food Service;SP;São Carlos;4;0;1;1;8,28;0,89;1;Baixo;No Prazo
+36;36;2025-04-30 04:00:00;0;1110,56;8659,0;3;4;4;Diego Martins;Van Refrigerada;Supermercado Central;Varejo;SP;Araraquara;3;0;1;0;7,8;0,885;1;Baixo;Atrasado
+51;52;2025-03-26 03:00:00;1;229,54;1092,0;1;3;4;Diego Martins;Van Refrigerada;Hotel Fazenda;Hotelaria;SP;Brotas;1;0;0;1;4,76;0,725;1;Baixo;No Prazo
+52;53;2025-05-28 20:00:00;1;521,34;3735,0;3;5;4;Diego Martins;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;0;7,16;0,81;1;Baixo;No Prazo
+56;57;2025-01-09 18:00:00;0;446,62;2324,0;1;1;5;Diego Martins;Van Refrigerada;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;2;0;0;1;5,2;0,865;1;Baixo;Atrasado
+66;67;2025-02-21 19:00:00;0;1357,67;11880,0;1;2;6;Diego Martins;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;1;8,75;0,28;0;Alto;Atrasado
+67;68;2025-06-07 02:00:00;1;1043,18;5256,0;1;6;7;Diego Martins;Van Refrigerada;Supermercado Família;Varejo;SP;Campinas;2;1;1;1;5,04;0,925;1;Baixo;No Prazo
+69;70;2025-02-21 23:00:00;1;1226,69;7289,0;2;2;6;Diego Martins;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;3;0;1;0;5,94;0,955;1;Baixo;No Prazo
+70;71;2025-02-07 09:00:00;0;858,97;5940,0;2;2;6;Diego Martins;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;4;0;1;0;6,92;0,385;0;Alto;Atrasado
+72;73;2025-03-03 21:00:00;1;1547,49;12219,0;3;3;2;Diego Martins;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;0;7,9;0,93;1;Baixo;No Prazo
+80;81;2025-04-17 01:00:00;1;942,5;7080,0;1;4;5;Diego Martins;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;4;0;1;1;7,51;0,85;1;Baixo;No Prazo
+152;153;2025-04-09 07:00:00;1;1100,7;3909,0;2;4;4;Diego Martins;Van Refrigerada;Rede Supermercados TOP;Varejo;PR;Curitiba;3;0;1;0;3,55;0,895;1;Baixo;No Prazo
+166;167;2025-06-03 12:00:00;1;1310,05;11168,0;1;6;3;Diego Martins;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;4;0;1;1;8,52;0,81;1;Baixo;No Prazo
+188;190;2025-04-21 01:00:00;0;1405,38;10029,0;1;4;2;Diego Martins;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;1;7,14;0,92;1;Baixo;Atrasado
+207;209;2025-01-09 11:00:00;1;437,56;3840,0;3;1;5;Diego Martins;Van Refrigerada;Supermercado Econômico;Varejo;BA;Salvador;4;0;0;0;8,78;0,765;1;Baixo;No Prazo
+227;229;2025-02-13 16:00:00;1;624,75;4163,0;1;2;5;Diego Martins;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;2;0;1;1;6,66;0,925;1;Baixo;No Prazo
+231;234;2025-02-04 23:00:00;1;1442,07;8548,0;2;2;3;Diego Martins;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;0;1;0;5,93;0,935;1;Baixo;No Prazo
+233;236;2025-06-25 03:00:00;1;1215,98;7936,0;1;6;4;Diego Martins;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;3;0;1;1;6,53;0,96;1;Baixo;No Prazo
+235;238;2025-02-28 16:00:00;1;876,5;5654,0;3;2;6;Diego Martins;Van Refrigerada;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;3;0;1;0;6,45;0,915;1;Baixo;No Prazo
+287;290;2025-03-31 22:00:00;1;851,92;4907,0;1;3;2;Diego Martins;Van Refrigerada;Atacadão Regional;Atacado;GO;Goiânia;4;0;1;1;5,76;0,885;1;Baixo;No Prazo
+307;311;2025-03-14 07:00:00;1;575,24;4180,0;3;3;6;Diego Martins;Van Refrigerada;Atacado Premium;Atacado;SP;Ribeirão Preto;2;0;1;0;7,27;0,945;1;Baixo;No Prazo
+380;385;2025-05-02 11:00:00;1;592,14;5595,0;2;5;6;Diego Martins;Van Refrigerada;Mercado do Bairro;Varejo;SP;São Paulo;2;0;1;0;9,45;0,885;1;Baixo;No Prazo
+389;394;2025-04-29 04:00:00;1;865,1;5231,0;1;4;3;Diego Martins;Van Refrigerada;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;0;1;1;6,05;0,89;1;Baixo;No Prazo
+11;11;2025-01-07 13:00:00;1;160,03;1165,0;1;1;3;Thiago Barbosa;Caminhão Frigorífico;Rede Supermercados TOP;Varejo;PR;Curitiba;2;0;0;1;7,28;0,855;1;Baixo;No Prazo
+55;56;2025-06-11 15:00:00;0;204,5;1320,0;2;6;4;Thiago Barbosa;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;1;0;0;0;6,45;0,285;0;Alto;Atrasado
+57;58;2025-03-17 04:00:00;1;684,53;5678,0;1;3;2;Thiago Barbosa;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;1;8,29;0,81;1;Baixo;No Prazo
+63;64;2025-06-13 06:00:00;1;157,54;1705,0;1;6;6;Thiago Barbosa;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;1;0;0;1;10,82;0,825;1;Baixo;No Prazo
+68;69;2025-03-22 16:00:00;1;349,61;4635,0;2;3;7;Thiago Barbosa;Caminhão Frigorífico;Distribuidor Norte;Atacado;AM;Manaus;1;1;0;0;13,26;0,9;1;Baixo;No Prazo
+79;80;2025-05-11 16:00:00;1;590,73;3332,0;1;5;1;Thiago Barbosa;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;1;1;1;1;5,64;0,85;1;Baixo;No Prazo
+84;85;2025-04-19 05:00:00;1;797,93;6394,0;1;4;7;Thiago Barbosa;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;2;1;1;1;8,01;0,76;1;Baixo;No Prazo
+89;90;2025-05-16 06:00:00;1;1098,26;8079,0;2;5;6;Thiago Barbosa;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;3;0;1;0;7,36;0,89;1;Baixo;No Prazo
+94;95;2025-06-24 13:00:00;1;1172,02;8503,0;1;6;3;Thiago Barbosa;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;3;0;1;1;7,25;0,955;1;Baixo;No Prazo
+95;96;2025-04-01 18:00:00;1;1677,26;5865,0;1;4;3;Thiago Barbosa;Caminhão Frigorífico;Mercadão do Povo;Varejo;CE;Fortaleza;4;0;1;1;3,5;0,88;1;Baixo;No Prazo
+126;127;2025-01-06 18:00:00;1;329,53;3192,0;1;1;2;Thiago Barbosa;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;1;0;0;1;9,69;0,75;1;Baixo;No Prazo
+134;135;2025-01-24 16:00:00;0;548,82;4575,0;1;1;6;Thiago Barbosa;Caminhão Frigorífico;Restaurante Sabor Verde;Food Service;MG;Belo Horizonte;2;0;1;1;8,34;0,31;0;Alto;Atrasado
+140;141;2025-05-19 07:00:00;0;742,74;5110,0;1;5;2;Thiago Barbosa;Caminhão Frigorífico;Mercadão do Povo;Varejo;CE;Fortaleza;2;0;1;1;6,88;0,275;0;Alto;Atrasado
+143;144;2025-01-19 15:00:00;0;911,38;3207,0;3;1;1;Thiago Barbosa;Caminhão Frigorífico;Supermercado Central;Varejo;SP;Araraquara;3;1;1;0;3,52;0,21;0;Alto;Atrasado
+183;184;2025-05-13 12:00:00;0;567,85;1272,0;1;5;3;Thiago Barbosa;Caminhão Frigorífico;Supermercado Econômico;Varejo;BA;Salvador;1;0;1;1;2,24;0,23;0;Alto;Atrasado
+192;194;2025-04-04 11:00:00;1;945,92;10311,0;1;4;6;Thiago Barbosa;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;4;0;1;1;10,9;0,895;1;Baixo;No Prazo
+229;231;2025-01-29 11:00:00;1;439,95;1716,0;3;1;4;Thiago Barbosa;Caminhão Frigorífico;Atacadão Regional;Atacado;GO;Goiânia;1;0;0;0;3,9;0,935;1;Baixo;No Prazo
+260;263;2025-02-19 09:00:00;1;1643,24;14698,0;3;2;4;Thiago Barbosa;Caminhão Frigorífico;Frigorífico Nobre;Atacado;MS;Campo Grande;4;0;1;0;8,94;0,915;1;Baixo;No Prazo
+268;271;2025-05-24 17:00:00;1;319,22;2159,0;2;5;7;Thiago Barbosa;Caminhão Frigorífico;Atacado Premium;Atacado;SP;Ribeirão Preto;2;1;0;0;6,76;0,925;1;Baixo;No Prazo
+274;277;2025-01-08 14:00:00;1;706,44;2981,0;2;1;4;Thiago Barbosa;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;3;0;1;0;4,22;0,615;1;Medio;No Prazo
+291;295;2025-06-24 17:00:00;1;1641,75;10290,0;1;6;3;Thiago Barbosa;Caminhão Frigorífico;Churrascaria do Sul;Food Service;RS;Porto Alegre;4;0;1;1;6,27;0,905;1;Baixo;No Prazo
+317;321;2025-04-25 22:00:00;1;1083,3;7204,0;3;4;6;Thiago Barbosa;Caminhão Frigorífico;Supermercado Família;Varejo;SP;Campinas;4;0;1;0;6,65;0,885;1;Baixo;No Prazo
+335;339;2025-06-23 18:00:00;0;1450,39;6830,0;2;6;2;Thiago Barbosa;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;4;0;1;0;4,71;0,29;0;Alto;Atrasado
+359;363;2025-06-16 13:00:00;1;518,44;1308,0;1;6;2;Thiago Barbosa;Caminhão Frigorífico;Restaurante Bom Sabor;Food Service;SP;São Carlos;1;0;1;1;2,52;0,86;1;Baixo;No Prazo
+365;370;2025-06-07 06:00:00;0;236,4;2930,0;3;6;7;Thiago Barbosa;Caminhão Frigorífico;Hotel Grand Premium;Hotelaria;SC;Florianópolis;2;1;0;0;12,39;0,695;1;Medio;Atrasado
